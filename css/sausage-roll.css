@@ -1,0 +1,27 @@
+.title,
+.img,
+.sub {
+    text-align: center;
+    color: brown;
+}
+
+.description,
+.ingredients,
+.steps {
+    border: 5px solid black;
+    margin: 0px;
+    padding: 20px;
+}
+
+.home {
+    font-size: 20px;
+}
+
+.img {
+    border: 50px solid black;
+}
+
+.steps {
+    list-style: decimal;
+    
+}
